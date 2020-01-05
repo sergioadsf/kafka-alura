@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1578165194674_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=common-kafka/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=service-email/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=service-fraude/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=service-log/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=service-new-order/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=service-users/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1578165194677_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=common-kafka/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1578165286917_3" label="ecommerce" name="ecommerce">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/service-email" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/service-fraude" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/service-log" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/service-new-order" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/common-kafka" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/service-users" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1578165196608_2" label="Window Working Set" name="Aggregate for window 1578165196607"/>
+</workingSetManager>

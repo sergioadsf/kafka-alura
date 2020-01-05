@@ -16,10 +16,14 @@ public class CreateUserService {
 	private final Connection connection;
 
 	public CreateUserService() throws SQLException {
-		String url = "jdbc:sqlite:target/users_database.db";
+		String url = "jdbc:sqlite:service-users/target/users_database.db";
 		this.connection = DriverManager.getConnection(url);
-		this.connection.createStatement()
-				.execute("create table Users(" + "uuid varchar(200) primary key," + "email varchar(200))");
+		try {
+			this.connection.createStatement()
+					.execute("create table Users(" + "uuid varchar(200) primary key," + "email varchar(200))");
+		} catch(SQLException e) {
+			e.printStackTrace();
+		}
 	}
 
 	public static void main(String[] args) throws Exception {

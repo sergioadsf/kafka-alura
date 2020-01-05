@@ -1,0 +1,201 @@
+2020-01-04 16:13:16,183 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-01-04 16:14:47,986 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:service-new-order:1.0-SNAPSHOT @ /home/sergio/workspace/java/code/alura/kafka-alura/service-new-order/pom.xml.
+2020-01-04 16:14:48,013 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:48,032 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:service-fraude:1.0-SNAPSHOT @ /home/sergio/workspace/java/code/alura/kafka-alura/service-fraude/pom.xml.
+2020-01-04 16:14:48,033 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:48,045 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:service-users:1.0-SNAPSHOT @ /home/sergio/workspace/java/code/alura/kafka-alura/service-users/pom.xml.
+2020-01-04 16:14:48,050 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:48,061 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:common-kafka:1.0-SNAPSHOT @ /home/sergio/workspace/java/code/alura/kafka-alura/common-kafka/pom.xml.
+2020-01-04 16:14:48,073 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:service-email:1.0-SNAPSHOT @ /home/sergio/workspace/java/code/alura/kafka-alura/service-email/pom.xml.
+2020-01-04 16:14:48,075 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:48,085 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:service-log:1.0-SNAPSHOT @ /home/sergio/workspace/java/code/alura/kafka-alura/service-log/pom.xml.
+2020-01-04 16:14:48,086 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:48,095 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:service-new-order:1.0-SNAPSHOT @ /home/sergio/workspace/java/code/alura/kafka-alura/service-new-order/pom.xml.
+2020-01-04 16:14:48,097 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:48,108 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:service-fraude:1.0-SNAPSHOT @ /home/sergio/workspace/java/code/alura/kafka-alura/service-fraude/pom.xml.
+2020-01-04 16:14:48,110 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:48,120 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:service-users:1.0-SNAPSHOT @ /home/sergio/workspace/java/code/alura/kafka-alura/service-users/pom.xml.
+2020-01-04 16:14:48,122 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:48,593 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common-kafka/src/main/java
+2020-01-04 16:14:48,593 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common-kafka/src/test/java
+2020-01-04 16:14:48,655 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-email/src/main/java
+2020-01-04 16:14:48,655 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-email/src/test/java
+2020-01-04 16:14:48,676 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-users/src/main/java
+2020-01-04 16:14:48,677 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-users/src/test/java
+2020-01-04 16:14:48,693 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-fraude/src/main/java
+2020-01-04 16:14:48,693 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-fraude/src/test/java
+2020-01-04 16:14:48,714 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-log/src/main/java
+2020-01-04 16:14:48,714 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-log/src/test/java
+2020-01-04 16:14:48,734 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-new-order/src/main/java
+2020-01-04 16:14:48,735 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-new-order/src/test/java
+2020-01-04 16:14:48,751 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 6 project(s) in 1 sec
+2020-01-04 16:14:49,305 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,307 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/common-kafka/src/main/resources
+2020-01-04 16:14:49,308 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,309 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/common-kafka/src/test/resources
+2020-01-04 16:14:49,335 [Worker-1: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:49,338 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,338 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-email/src/main/resources
+2020-01-04 16:14:49,339 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,339 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-email/src/test/resources
+2020-01-04 16:14:49,362 [Worker-1: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:49,364 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,365 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-fraude/src/main/resources
+2020-01-04 16:14:49,365 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,366 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-fraude/src/test/resources
+2020-01-04 16:14:49,386 [Worker-1: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:49,389 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,389 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-log/src/main/resources
+2020-01-04 16:14:49,390 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,390 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-log/src/test/resources
+2020-01-04 16:14:49,432 [Worker-1: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:49,437 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,437 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-new-order/src/main/resources
+2020-01-04 16:14:49,439 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,439 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-new-order/src/test/resources
+2020-01-04 16:14:49,482 [Worker-1: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:14:49,489 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,490 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-users/src/main/resources
+2020-01-04 16:14:49,491 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:14:49,491 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-users/src/test/resources
+2020-01-04 16:14:50,753 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/2.3.1/kafka-clients-2.3.1-sources.jar
+2020-01-04 16:14:52,075 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/2.3.1/kafka-clients-2.3.1-sources.jar
+2020-01-04 16:14:52,103 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:14:52,958 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.4.0-1/zstd-jni-1.4.0-1-sources.jar
+2020-01-04 16:14:53,259 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.4.0-1/zstd-jni-1.4.0-1-sources.jar
+2020-01-04 16:14:53,294 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:14:54,123 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.6.0/lz4-java-1.6.0-sources.jar
+2020-01-04 16:14:54,653 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.6.0/lz4-java-1.6.0-sources.jar
+2020-01-04 16:14:54,674 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:14:55,399 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.7.3/snappy-java-1.1.7.3-sources.jar
+2020-01-04 16:14:56,705 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.7.3/snappy-java-1.1.7.3-sources.jar
+2020-01-04 16:14:56,727 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:14:57,431 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar
+2020-01-04 16:14:57,864 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar
+2020-01-04 16:14:57,887 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:14:58,566 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.29/slf4j-simple-1.7.29-sources.jar
+2020-01-04 16:14:58,854 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.29/slf4j-simple-1.7.29-sources.jar
+2020-01-04 16:14:58,870 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:14:59,654 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6-sources.jar
+2020-01-04 16:15:00,275 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6-sources.jar
+2020-01-04 16:15:00,294 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:00,296 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:00,298 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:00,299 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:00,301 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:00,302 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:00,304 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:00,305 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:01,189 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.28.0/sqlite-jdbc-3.28.0-sources.jar
+2020-01-04 16:15:03,989 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.28.0/sqlite-jdbc-3.28.0-sources.jar
+2020-01-04 16:15:04,006 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial:sqlite-jdbc:3.28.0
+2020-01-04 16:15:04,007 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,008 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,009 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,010 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,011 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,012 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,013 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,026 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,028 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,029 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,030 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,031 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,032 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,033 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,047 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:15:04,048 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,049 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,050 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,051 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,052 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,053 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,054 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,068 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:15:04,069 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,070 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,071 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,072 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,073 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,074 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,075 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,076 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,077 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,078 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,079 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,080 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,081 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,082 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,083 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,085 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,086 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,087 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,088 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,089 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,090 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,091 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial:sqlite-jdbc:3.28.0
+2020-01-04 16:15:04,092 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,093 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,094 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,096 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,097 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,098 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,099 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,100 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,101 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,102 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,103 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,104 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,105 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,106 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,106 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,107 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,108 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,110 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,111 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,112 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,113 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,125 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:15:04,126 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:2.3.1
+2020-01-04 16:15:04,127 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.4.0-1
+2020-01-04 16:15:04,129 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.6.0
+2020-01-04 16:15:04,130 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.7.3
+2020-01-04 16:15:04,130 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.26
+2020-01-04 16:15:04,131 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-simple:1.7.29
+2020-01-04 16:15:04,132 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-01-04 16:15:04,176 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:15:04,194 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:15:04,339 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,339 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/common-kafka/src/main/resources
+2020-01-04 16:15:04,340 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,340 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/common-kafka/src/test/resources
+2020-01-04 16:15:04,346 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,347 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-email/src/main/resources
+2020-01-04 16:15:04,348 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,348 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-email/src/test/resources
+2020-01-04 16:15:04,352 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,352 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-fraude/src/main/resources
+2020-01-04 16:15:04,353 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,353 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-fraude/src/test/resources
+2020-01-04 16:15:04,357 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,357 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-log/src/main/resources
+2020-01-04 16:15:04,358 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,358 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-log/src/test/resources
+2020-01-04 16:15:04,373 [Worker-1: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:15:04,376 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,376 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-new-order/src/main/resources
+2020-01-04 16:15:04,377 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,377 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-new-order/src/test/resources
+2020-01-04 16:15:04,402 [Worker-1: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-kafka: br.com.alura:common-kafka:1.0-SNAPSHOT with classifier  to /common-kafka/target/classes
+2020-01-04 16:15:04,404 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,404 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-users/src/main/resources
+2020-01-04 16:15:04,405 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:04,405 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/service-users/src/test/resources
+2020-01-04 16:15:43,095 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:43,095 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/common-kafka/src/main/resources
+2020-01-04 16:15:43,096 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:43,096 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/common-kafka/src/test/resources
+2020-01-04 16:15:59,741 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:59,741 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/common-kafka/src/main/resources
+2020-01-04 16:15:59,742 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-04 16:15:59,743 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sergio/workspace/java/code/alura/kafka-alura/common-kafka/src/test/resources

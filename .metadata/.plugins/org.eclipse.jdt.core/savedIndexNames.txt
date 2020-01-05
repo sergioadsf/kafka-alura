@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+/home/sergio/workspace/java/code/alura/kafka-alura/.metadata/.plugins/org.eclipse.jdt.core
+2659302645.index
+191010507.index
+750301072.index
+3727443499.index
+3200062369.index
+2051144762.index
+2324854374.index
+3190036399.index
+1833606580.index
+3837080008.index
+1295371826.index
+380518575.index
+751509239.index

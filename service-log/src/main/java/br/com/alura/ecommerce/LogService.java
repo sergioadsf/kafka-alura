@@ -10,7 +10,7 @@ import org.apache.kafka.common.serialization.StringDeserializer;
 
 public class LogService {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		Map<String, String> map = new HashMap<>();
 		map.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getName());
 

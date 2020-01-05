@@ -6,7 +6,7 @@ import org.apache.kafka.clients.consumer.ConsumerRecord;
 
 public class EmailService {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		EmailService emailService = new EmailService();
 		try (KafkaService<String> service = new KafkaService<>(EmailService.class.getSimpleName(),
 				"ECOMMERCE_SEND_EMAIL", emailService::parse, String.class, new HashMap<>());) {
